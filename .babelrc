@@ -1,0 +1,4 @@
+{
+  "presets": [["@babel/preset-env", { "targets": { "node": "12" } }], "@babel/react"],
+  "plugins": ["@babel/plugin-proposal-object-rest-spread", "@babel/plugin-syntax-dynamic-import"]
+}
